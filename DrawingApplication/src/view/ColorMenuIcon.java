@@ -1,6 +1,6 @@
 /*
  * TCSS 305 - Fall 2020
- * Assignment 4 - Powerpaint
+ * Assignment 4 - DrawingApplication
  */
 
 package view;
