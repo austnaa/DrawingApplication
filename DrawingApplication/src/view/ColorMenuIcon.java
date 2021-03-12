@@ -1,5 +1,5 @@
 /*
- * TCSS 305 - Fall 2020
+ * Fall 2020
  * Assignment 4 - DrawingApplication
  */
 
